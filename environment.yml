@@ -1,0 +1,19 @@
+name: wastewater
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - gdal=3.6.2
+  - fiona=1.9.5
+  - shapely=2.0.1
+  - geopandas=0.13.2
+  - pandas=1.5.3
+  - numpy=1.24.3
+  - matplotlib=3.7.1
+  - xarray=2023.01.0
+  - hdf5=1.12.1
+  - pip
+  - pip:
+      - ipykernel
+      - datetime
