@@ -1,0 +1,25 @@
+# requirements.txt
+gdal==2.3.3
+fiona
+shapely
+geopandas
+pandas
+numpy
+matplotlib
+xarray
+h5py  # hdf5 bindings for pip, no direct hdf5 package in pip
+ipykernel
+datetime
+xarray
+numpy
+pandas
+matplotlib
+cartopy
+shapely
+scipy
+regionmask
+seaborn
+geopandas
+xesmf
+rasterio
+pyogrio
